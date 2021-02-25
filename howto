@@ -1,0 +1,2 @@
+1. cd printer-driver
+2. sudo sh run-elev.sh
